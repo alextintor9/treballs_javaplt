@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+<script>
+  var a = prompt("¿Cuál es tu nota en el 1r Exámen?");
+  var b = prompt("¿Cuál es tu nota en el 2o Exámen?");
+  var c = prompt("¿Cuál es tu nota en el 3r Exámen?");
+    a = parseInt(a);
+    b = parseInt(b);
+    c = parseInt(c);
+</script>
+
+<script>
+  var media = (a+b+c)/3;
+  alert("Tu nota media es de "+media);
+</script>
+
+  </body>
+</html>
