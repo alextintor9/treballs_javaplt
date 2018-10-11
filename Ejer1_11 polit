@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+<script>
+  var a = 2;
+  var b = 3;
+</script>
+
+<script>
+  var c = (a+b);
+  var d = (b-a);
+  var e = (a*b);
+  var f = (a/b);
+  alert(c);
+  alert(d);
+  alert(e);
+  alert(f);
+</script>
+
+  </body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+    <script>
+      var a = "17";
+      var b = "Polit, ";
+      var c = "Soltero? si";
+    </script>
+
+    <script>
+      console.log(b+a);
+      console.log(c);
+    </script>
+  </body>
+</html>

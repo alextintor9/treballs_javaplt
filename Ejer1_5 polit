@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+      var a = "H"; //Declaramos todas las variables
+      var b = "o";
+      var c = "l";
+      var d = "a";
+    </script>
+
+    <script>
+    var e = a+b+c+d; //Sumamos las variables anteriores
+    alert(e); //Mostramos el resultado en una alerta
+    </script>
+  </body>
+</html>

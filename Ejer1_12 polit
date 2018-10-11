@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+      var nombre = prompt("Hola, cual es tu nombre?");
+      var apellidos = prompt("Apellidos?")
+      alert("Bienvenido "+nombre+ " " +apellidos);
+    </script>
+  </body>
+</html>

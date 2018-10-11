@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+      window.alert(3+5) //Sumamos ambos valores
+      window.alert(7-2)
+      window.alert(10/5)
+      window.alert(4*8) /*Proove yourself and RISE. RISE.
+      RAAAAAAAAAIIIISSSSSSSEEEEEE.*/
+    </script>
+  </body>
+</html>
